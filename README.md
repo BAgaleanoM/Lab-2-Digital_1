@@ -1,3 +1,3 @@
 # Lab-2-Digital_1
 
-![compuertas](./compuertas.png)
+![diagrama_ladder](./diagrama_ladder.png)
