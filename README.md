@@ -13,3 +13,8 @@ Como se puede observar a continuación, el diagrama en lenguaje ladder busca rep
 ## Diagrama de Bloques
 En este se planteo la lógica de una manera mas comprensible y fuera de las tablas de verdad, que va a seguir el sistema.
 ![modelo_circuito](./Diagrama-de-bloques.png)
+
+
+## Esquematico del rele
+Se busco representar de una manera mas realista, lo que se planteo con el circuito, por lo que se implementó un relé de 12V, para que este hiciera e cambio, conmutando entre la red eléctrica y las baterías, haciendo uso de un bjt para que controlara el paso de la corriente y a el pin NC el ed que indica que se esta usando la red electrica y cuando se apaga ese y se enciende el otro, que esta en NA, nos presenta el cambio a las baterias    
+![modelo_circuito](./Esquema-rele.png)
