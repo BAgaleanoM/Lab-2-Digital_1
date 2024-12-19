@@ -18,3 +18,6 @@ En este se planteo la lógica de una manera mas comprensible y fuera de las tabl
 ## Esquematico del rele
 Se busco representar de una manera mas realista, lo que se planteo con el circuito, por lo que se implementó un relé de 12V, para que este hiciera e cambio, conmutando entre la red eléctrica y las baterías, haciendo uso de un bjt para que controlara el paso de la corriente y a el pin NC el ed que indica que se esta usando la red electrica y cuando se apaga ese y se enciende el otro, que esta en NA, nos presenta el cambio a las baterias    
 ![modelo_circuito](./Esquema-rele.png)
+
+## Presentación del video
+https://youtu.be/F3Uq-S-8Q6s
