@@ -12,4 +12,4 @@ Como se puede observar a continuación, el diagrama en lenguaje ladder busca rep
 
 ## Diagrama de Bloques
 En este se planteo la lógica de una manera mas comprensible y fuera de las tablas de verdad, que va a seguir el sistema.
-![modelo_circuito](./Diagrama_de_bloques.png)
+![modelo_circuito](./Diagrama-de-bloques.png)
