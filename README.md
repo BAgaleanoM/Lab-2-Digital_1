@@ -10,7 +10,7 @@ Como se puede observar a continuación, el diagrama en lenguaje ladder busca rep
 ![diagrama_ladder](./diagrama_ladder.png)
 ![modelo_circuito](./modelo_circuito.png)
 
-## Diagrama de Bloques
+## Diagrama de Flujo
 En este se planteo la lógica de una manera mas comprensible y fuera de las tablas de verdad, que va a seguir el sistema.
 ![modelo_circuito](./Diagrama-de-bloques.png)
 
